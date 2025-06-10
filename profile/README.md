@@ -5,3 +5,5 @@
 
 * 🔗 홈페이지: [https://notipy.code0987.com](https://notipy.code0987.com)
 * 💬 디스코드 봇 레포지토리: [notipy-discordbot](https://github.com/Notipy-DiscordBot/Notipy)
+
+> 참고: 본 프로젝트는 초기에는 https://github.com/macqueen0987/NotiPy 레포지토리에서 시작되었습니다.
