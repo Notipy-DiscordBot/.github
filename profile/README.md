@@ -8,3 +8,10 @@
 * Issues: https://github.com/Notipy-DiscordBot/Notipy/issues
 
 > 참고: 본 프로젝트는 초기에는 https://github.com/macqueen0987/NotiPy 레포지토리에서 시작되었습니다.
+
+
+## Contributers
+강세진: `KANG SEJIN`   
+조진형: `ErrCode0987`   
+이효근: `hardlyPw`   
+김성재: `k1mseongjae`   
