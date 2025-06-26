@@ -11,7 +11,7 @@
 
 
 ## Contributers
-강세진: `KANG SEJIN`   
-조진형: `ErrCode0987`   
+강세진: `SEJIN-1457`   
+조진형: `macqueen0987`   
 이효근: `hardlyPw`   
 김성재: `k1mseongjae`   
